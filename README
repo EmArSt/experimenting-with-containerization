@@ -1,0 +1,18 @@
+
+
+
+##### What did I learn?
+
+###### Name spaces:
+
+* Name spaces are a feature of the linux kernel, that allows for the restriction of resource access for certain processes.
+
+* There are different kinds of name spaces:
+  * Mount (mnt): 
+
+#### Ressources:
+
+* https://www.youtube.com/watch?v=JOsWB50LmwQ
+* https://stackoverflow.com/questions/68667003/whats-the-difference-between-chroot-and-pivot-root
+* https://www.youtube.com/watch?v=8fi7uSYlOdc
+* https://www.infoq.com/articles/build-a-container-golang/
